@@ -27,13 +27,14 @@ Results were validated with time-aware GroupKFold CV, bootstrap confidence inter
 About 9.5M observations. 10 raw columns.  
 *Source: https://www.kaggle.com/datasets/dudesurfin/spy-options-eod-volatility-surface-2010-2023*
 
-Implemented in the project via **kagglehub** library:  
+Implemented in the project via `kagglehub` library:  
 path = kagglehub.dataset_download("dudesurfin/spy-options-eod-volatility-surface-2010-2023")
 
 ---
 
 **Google Colab**: 
-*[https://colab.research.google.com/github/stassisss/Volatility_surface_predict_ML/blob/main/ML_implied_volatility](https://colab.research.google.com/github/stassisss/Volatility_surface_predict_ML/blob/main/ML_implied_volatility)*
+*[https://colab.research.google.com/github/stassisss/Volatility_surface_predict_ML/blob/main/ML_implied_volatility](https://colab.research.google.com/github/stassisss/Volatility_surface_predict_ML/blob/main/ML_implied_volatility)
+*
 
 -----
 
@@ -66,7 +67,7 @@ IV вычисляется через обращение формулы BS для
 Около 9.5 млн наблюдений. 10 исходных колонок.  
 *Источник: [https://www.kaggle.com/datasets/dudesurfin/spy-options-eod-volatility-surface-2010-2023](https://www.kaggle.com/datasets/dudesurfin/spy-options-eod-volatility-surface-2010-2023)*
 
-Датасет скачен через библиотеку **kagglehub**:  
+Датасет скачен через библиотеку `kagglehub`:  
 path = kagglehub.dataset_download("dudesurfin/spy-options-eod-volatility-surface-2010-2023")
 
 
