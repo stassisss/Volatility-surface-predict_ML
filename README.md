@@ -1,4 +1,4 @@
-**Pfoject Discription & Motivation:**
+**Project Discription & Motivation:**
 
 The Black-Scholes-Merton formula gives a closed-form solution for the price of a European option:
 
